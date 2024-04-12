@@ -1,0 +1,53 @@
+
+.game-card {
+    background-color: transparent;
+    width: 300px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+    backdrop-filter: blur(1px);
+}
+
+.game-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.game-card h3 {
+    margin-top: 10px;
+    font-size: 18px;
+
+    font-weight: normal;
+    color: white;
+}
+
+.game-card h4 {
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 18px;
+    margin-top: 10px;
+}
+
+.game-card button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s;
+}
+
+.game-card button:hover {
+    background-color: #0056b3;
+}
+
+
+.game-card:hover img {
+    filter: brightness(75%); /* Decrease brightness on hover */
+}

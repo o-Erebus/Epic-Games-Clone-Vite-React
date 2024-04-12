@@ -1,0 +1,27 @@
+.games-carousel{
+    width: 1100px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    cursor: pointer;
+}
+.games-carousel-label {
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.6) 50%, rgba(0, 0, 0, 0.0));
+    backdrop-filter: blur(1px);
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    width: 100%;
+}
+
+.games-carousel img{
+    display: block;
+    aspect-ratio: 16/9;
+    width: auto;
+    height: auto;
+}

@@ -1,0 +1,7 @@
+.checkout{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xxx-large;
+    height: 60vh
+}

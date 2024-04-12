@@ -1,0 +1,76 @@
+
+.CartCard {
+
+    background-color: transparent;
+    width: 300px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 15px;
+
+    color: white;
+    backdrop-filter: blur(1px);
+}
+
+.CartCard img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.CartItemsContainer{
+    background-color: rgb(32, 32, 32);
+    padding: 50px 0px 50px 30px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    width: 900px;
+
+}
+
+.CartItemsContainer img {
+
+    width: 350px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.CartItemsContainer img:hover{
+    filter: brightness(75%);
+}
+.CartItemDetails{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.CartItemsContainer span{
+    position: absolute;
+    width: 50px;
+    background-color: transparent;
+    cursor: pointer;
+    height: 10px;
+    margin-left: 775px;
+    margin-top: 175px;
+    text-decoration: underline;
+    color: lightgray;
+}
+
+.CartItemsContainer span:hover{
+    text-decoration: none;
+}
+
+h2,h3,h4,h5,h6{
+    font-weight: normal;
+}
+
+h2{
+    font-size: 24px;
+}
+
+h3{
+    font-size: 18px;
+}

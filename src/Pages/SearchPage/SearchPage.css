@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Optionally hide horizontal scrollbar if not needed */
+}
+
+.background {
+    /* Set background properties */
+    height: 100vh;
+    width: 100vw;
+    /* You can also set other properties like background-color, background-repeat, etc. */
+}
+.game-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.Category-Header h2{
+    margin-left: 220px;
+}

@@ -1,0 +1,12 @@
+.custom-carousel{
+    width: 850px;
+    margin-left: 225px;
+}
+
+.custom-carousel-img{
+
+    aspect-ratio: 16/9;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+}

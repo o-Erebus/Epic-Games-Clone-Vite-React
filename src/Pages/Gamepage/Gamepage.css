@@ -1,0 +1,16 @@
+.Content{
+    display: flex;
+    flex-direction: column;
+}
+ .TopContent{
+     display: flex;
+     flex-direction: row;
+
+ }
+
+ .game-details{
+     margin-left: 225px;
+     max-width: 850px;
+     font-size: large;
+ }
+

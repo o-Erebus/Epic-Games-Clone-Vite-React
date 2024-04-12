@@ -1,0 +1,9 @@
+h1{
+    font-weight: normal;
+}
+
+.CartContent{
+    display: flex;
+    flex-direction: row;
+    margin-left: 225px;
+}
