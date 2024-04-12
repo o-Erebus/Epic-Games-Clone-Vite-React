@@ -60,4 +60,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [react-awesome-stars-rating](https://www.npmjs.com/package/react-awesome-stars-rating): A React component for star rating.
 - [react-responsive-carousel](https://www.npmjs.com/package/react-responsive-carousel): A React carousel component that supports responsive design.
 
-```
