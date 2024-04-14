@@ -4,15 +4,16 @@ Welcome to the Epic Games Clone repository! This project aims to create a clone 
 
 ## Screenshots
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="Screenshots/Screenshot%202024-04-14%20225624.png" alt="Screenshot 1" style="max-width: 300px;">
-    <img src="Screenshots/Screenshot%202024-04-14%20225639.png" alt="Screenshot 2" style="max-width: 300px;">
-    <img src="Screenshots/Screenshot%202024-04-14%20225653.png" alt="Screenshot 3" style="max-width: 300px;">
-</div>
-<div style="display: flex; justify-content: space-between;">
-    <img src="Screenshots/Screenshot%202024-04-14%20225928.png" alt="Screenshot 4" style="max-width: 300px;">
-    <img src="Screenshots/Screenshot%202024-04-14%20230010.png" alt="Screenshot 5" style="max-width: 300px;">
-</div>
+<p float="left">
+    <img src="Screenshots/Screenshot%202024-04-14%20225624.png" alt="Screenshot 1" width="300" style="margin-right: 10px;">
+    <img src="Screenshots/Screenshot%202024-04-14%20225639.png" alt="Screenshot 2" width="300" style="margin-right: 10px;">
+    <img src="Screenshots/Screenshot%202024-04-14%20225653.png" alt="Screenshot 3" width="300" style="margin-right: 10px;">
+</p>
+<p float="left">
+    <img src="Screenshots/Screenshot%202024-04-14%20225928.png" alt="Screenshot 4" width="300" style="margin-right: 10px;">
+    <img src="Screenshots/Screenshot%202024-04-14%20230010.png" alt="Screenshot 5" width="300" style="margin-right: 10px;">
+</p>
+
 
 
 
