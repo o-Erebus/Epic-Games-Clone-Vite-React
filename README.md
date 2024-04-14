@@ -4,11 +4,12 @@ Welcome to the Epic Games Clone repository! This project aims to create a clone 
 
 ## Screenshots
 
-![Screenshot 1](Screenshots/screenshot1.png)
-![Screenshot 2](Screenshots/screenshot2.png)
-![Screenshot 3](Screenshots/screenshot3.png)
-![Screenshot 4](Screenshots/screenshot4.png)
-![Screenshot 5](Screenshots/screenshot5.png)
+![Screenshot 1](Screenshots/Screenshot%202024-04-14%20225624.png)
+![Screenshot 2](Screenshots/Screenshot%202024-04-14%20225639.png)
+![Screenshot 3](Screenshots/Screenshot%202024-04-14%20225653.png)
+![Screenshot 4](Screenshots/Screenshot%202024-04-14%20225928.png)
+![Screenshot 5](Screenshots/Screenshot%202024-04-14%20230010.png)
+
 
 ## Getting Started
 
