@@ -1,6 +1,14 @@
-# Epic Games Clone with RAWG API and Vite + React for FrontEnd
+![image](https://github.com/o-Erebus/Epic-Games-Clone-Vite-React/assets/134832151/a30a82a5-621b-44e1-b2e1-281040da3461)# Epic Games Clone with RAWG API and Vite + React for FrontEnd
 
 Welcome to the Epic Games Clone repository! This project aims to create a clone of Epic Games using the RAWG API for game data and Vite along with React for the frontend development.
+
+## Screenshots
+
+![Screenshot 1](Screenshots/screenshot1.png)
+![Screenshot 2](Screenshots/screenshot2.png)
+![Screenshot 3](Screenshots/screenshot3.png)
+![Screenshot 4](Screenshots/screenshot4.png)
+![Screenshot 5](Screenshots/screenshot5.png)
 
 ## Getting Started
 
